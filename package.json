@@ -1,6 +1,6 @@
 {
   "name": "derby-views",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Derby templates client serialize block",
   "main": "lib/index.js",
   "scripts": {
