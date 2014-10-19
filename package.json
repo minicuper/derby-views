@@ -19,6 +19,13 @@
     "resolve": "^1.0.0",
     "serialize-object": "0.0.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zag2art/derby-views.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zag2art/derby-views/issues"
+  },
   "devDependencies": {
     "expect.js": "~0.3.1",
     "jshint": "~2.4.4",
